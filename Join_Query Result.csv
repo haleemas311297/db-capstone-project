@@ -1,0 +1,11 @@
+CustomerID,CustomerName,OrderID,TotalCost,MenuName,CourseName,StarterName
+7,Emily,4,199.00,"Greek yoghurt",Starters,"Tomato bread"
+3,Alice,9,199.00,Baklawa,"Main Courses",Pizza
+8,Frank,2,295.00,"Greek yoghurt",Starters,Flatbread
+9,Grace,6,295.00,Pasta,Starters,Hummus
+5,Charlie,1,499.00,"Greek yoghurt",Starters,Olives
+2,"Jane Doe",7,499.00,Pasta,"Main Courses","Greek salad"
+4,Bob,3,599.00,"Greek yoghurt",Starters,Minestrone
+6,David,8,599.00,Pasta,"Main Courses","Bean soup"
+1,"John Doe",5,795.00,Pasta,Starters,Falafel
+10,Hannah,10,795.00,Baklawa,Desserts,"Greek yoghurt"
